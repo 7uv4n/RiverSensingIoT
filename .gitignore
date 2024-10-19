@@ -1,0 +1,7 @@
+Others/
+raspbi/
+lib/
+bin/
+include/
+lib64/
+*.db
